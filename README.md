@@ -86,14 +86,6 @@ Tesla & Audi compete equally on **engine performance**.
 
 ---
 
-##📂 Repository Structure
-
-   EV-Data-Analysis-Project/
-   │── Electric_Vehicle.ipynb   # Main Jupyter Notebook
-   │── FEV-data-Excel.xlsx      # Dataset (if shareable)
-   │── requirements.txt         # Dependencies
-   │── README.md                # Documentation
-
 ## ✨ Author
 👤 **Aman Kumar Yadav**  
 📧 amanyadav32327@gmail.com  
