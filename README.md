@@ -86,23 +86,13 @@ Tesla & Audi compete equally on **engine performance**.
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:
-   git clone https://github.com/your-username/EV-Data-Analysis-Project.git
-   cd EV-Data-Analysis-Project
-
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Open the notebook:
-   jupyter notebook Electric_Vehicle.ipynb
-
 ##📂 Repository Structure
-EV-Data-Analysis-Project/
-│── Electric_Vehicle.ipynb   # Main Jupyter Notebook
-│── FEV-data-Excel.xlsx      # Dataset (if shareable)
-│── requirements.txt         # Dependencies
-│── README.md                # Documentation
+
+   EV-Data-Analysis-Project/
+   │── Electric_Vehicle.ipynb   # Main Jupyter Notebook
+   │── FEV-data-Excel.xlsx      # Dataset (if shareable)
+   │── requirements.txt         # Dependencies
+   │── README.md                # Documentation
 
 ## ✨ Author
 👤 **Aman Kumar Yadav**  
