@@ -89,4 +89,4 @@ Tesla & Audi compete equally on **engine performance**.
 ## ✨ Author
 👤 **Aman Kumar Yadav**  
 📧 amanyadav32327@gmail.com  
-🔗 [LinkedIn]((https://www.linkedin.com/in/aman-yadav-6b64b6253/)) | [GitHub](https://github.com/amanyadav32327)
+🔗 [LinkedIn](https://www.linkedin.com/in/aman-yadav-6b64b6253/) | [GitHub](https://github.com/amanyadav32327)
